@@ -1,2 +1,2 @@
-# weather-app
+# Weather App
 react-native로 날씨 App를 공부해보자
